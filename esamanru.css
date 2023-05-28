@@ -10,13 +10,13 @@
 }
 @font-face {
     font-family: 'esamanru';
-    font-weight: 400;
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/esamanru/esamanru-Regular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/esamanru/esamanru-Regular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/esamanru/esamanru-Regular.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/esamanru/esamanru-Regular.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/esamanru/esamanru-Medium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/esamanru/esamanru-Medium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/esamanru/esamanru-Medium.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/esamanru/esamanru-Medium.ttf') format('truetype');
 }
 @font-face {
     font-family: 'esamanru';
